@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+
+a,
+.theme_color,
+.btn-style-one:hover,
+.header-top .social-icon li a,
+.social-icon-one li a:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.news-block .inner-box .lower-box h3 a:hover,
+.news-block .inner-box .lower-box .read-more:hover,
+.news-block-two .inner-box h3 a:hover,
+.renovation-section h3 span,
+.list-style-one li .icon,
+.social-icon-two li a:hover,
+.list-style-two li:before,
+.video-section .owl-prev:hover,
+.page-title .page-breadcrumb li a,
+.video-section .owl-next:hover,
+.project-tab .p-tab-btn.active-btn, .project-tab .p-tab-btn:hover,
+.service-block-three .inner-box .lower-content h3 a:hover,
+.main-footer .links-widget .list li a:hover,
+.service-block .inner-box .lower-box h3 a:hover,
+.service-block .inner-box .lower-box .read-more:hover,
+.main-header .header-top .top-left .links li a:hover,
+.main-header .header-top .top-left .links li .icon,
+.main-header .sticky-header .main-menu .navigation > li > a:hover,
+.main-header .sticky-header .main-menu .navigation > li.current > a,
+.services-section-two .owl-nav .owl-prev:hover,
+.services-section-two .owl-nav .owl-next:hover,
+.service-block-two .inner-box .overlay-box .read-more,
+.service-block-two .inner-box .overlay-box h4 a:hover,
+.gallery-item-three .inner-box h3 a:hover,
+.main-header .info-box .icon-box,
+.social-icon-three li a:hover,
+.featured-block .inner-box .icon-box,
+.featured-block .inner-box h3 a:hover,
+.list-style-six li:before,
+.error-section h1,
+.shop-item .inner-box .lower-content h3 a:hover,
+.cart-table tbody tr .remove-btn:hover,
+.cat-list li a:hover,
+.sidebar .popular-posts .post a:hover,
+.error-section .theme-btn:hover,
+.shop-comment-form .rating-box .rating a:hover,
+.news-block-three .inner-box .lower-content .lower-box h3 a:hover,
+.gallery-item .inner-box .image .overlay-box .content h3 a:hover,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover,
+.blog-single .inner-box .lower-content .lower-box .text p a,
+.sidebar-page-container .comments-area .comment-box .post-info li a,
+.shop-single .comments-area .comment .comment-inner .rating .fa,
+.gallery-section .filters .filter.active, .gallery-section .filters .filter:hover{
+	color:#39CCCC;
+}
+
+/*Background Color*/
+
+.btn-style-one,
+.scroll-to-top:hover,
+.sec-title h2:after,
+.btn-style-two:hover,
+.call-to-action-section,
+.sec-title-two h2:after,
+.gallery-item-two .overlay-inner .link,
+.main-footer .footer-widget h2:after,
+.news-block .inner-box .image .post-date,
+.service-block .inner-box .lower-box h3:before,
+.emailed-form .form-group input[type="submit"],
+.emailed-form .form-group button,
+.company-section .inner-container,
+.video-box .overlay-box span,
+.btn-style-five:hover,
+.message-section .info-column h2:after,
+.header-style-three .header-top,
+.services-section-four:before,
+.sidebar .popular-tags a:hover,
+.services-section-four .owl-prev:hover,
+.contact-info-section .info-columns .info-column h2:after,
+.services-section-four .owl-next:hover,
+.services-section-three .title-box h2:after,
+.approach-section .image-column .image:after,
+.company-page-section .title-box .download-box,
+.company-page-section .content-column .inner-column,
+.services-section-five h2 span:after,
+.year-block .inner-box .year,
+.help-widget .widget-content,
+.sidebar-title h2:after,
+.shop-features-section,
+.shop-comment-form h2:before,
+.page-title .info-bubble .info-inner,
+.help-widget .widget-content .content:before,
+.team-block .inner-box .image .join-overlay,
+.blog-cat li.active a, .blog-cat li a:hover,
+.banner-section .form-column .inner-column h2:after,
+.experiance-block .content-column .inner-column h3:before,
+.styled-pagination li a:hover, .styled-pagination li a.active,
+.mechanical-section .content-column .inner-column h2 span:after,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn,
+.contact-section .info-column h2:after,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn:before,
+.download-widget .download-box:hover{
+	background-color:#39CCCC;
+}
+
+.help-widget .widget-content .content:after{
+	background-color:rgba(255,255,255,0.90);
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-one:hover,
+.btn-style-two:hover,
+.renovation-section h3 span,
+.video-section .owl-prev:hover,
+.btn-style-five:hover,
+.video-section .owl-next:hover,
+.main-header .search-box-outer .dropdown-menu,
+.main-header .search-panel input:focus,
+.main-header .search-panel select:focus,
+.default-form input[type="text"]:focus,
+.default-form input[type="email"]:focus,
+.default-form input[type="password"]:focus,
+.default-form select:focus,
+.default-form textarea:focus,
+.service-block-three .inner-box .image,
+.in-touch-form input[type="text"]:focus,
+.in-touch-form input[type="email"]:focus,
+.in-touch-form input[type="password"]:focus,
+.in-touch-form select:focus,
+.in-touch-form textarea:focus,
+.blog-cat,
+.sidebar .popular-tags a:hover,
+.faq-search-box .form-group input:focus,
+.services-section-four .owl-prev:hover,
+.services-section-four .owl-next:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group textarea:focus,
+.shop-form input:focus, .shop-form select:focus,
+.shop-form textarea:focus,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.shop-comment-form .form-group input[type="text"]:focus,
+.shop-comment-form .form-group input[type="password"]:focus,
+.shop-comment-form .form-group input[type="tel"]:focus,
+.shop-comment-form .form-group input[type="email"]:focus,
+.shop-comment-form .form-group select:focus,
+.shop-comment-form .form-group textarea:focus{
+	border-color:#39CCCC;
+}
+
+.page-title .info-bubble .info-inner:after{
+	border-top-color:#39CCCC;
+}
+
+.service-block-three .inner-box .image:before{
+	background: -webkit-linear-gradient(left, rgba(57,204,204,0.8) 0%, rgba(57,204,204,0.8) 100%);
+    background: linear-gradient(to right, rgba(57,204,204,0.8) 0%, rgba(57,204,204,0.8) 100%);
+}
+
+.gallery-item-three .overlay-box,
+.faq-form-section:before{
+	background-color:rgba(57,204,204,0.90);
+}
+
+.comming-soon:before{
+	background-color:rgba(57,204,204,0.85);
+}
+
+.counter-section:before,
+.call-to-action-section-two:before{
+	background-color:rgba(57,204,204,0.95);
+}
+
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#39CCCC;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#39CCCC;
+	}
+	
+}
